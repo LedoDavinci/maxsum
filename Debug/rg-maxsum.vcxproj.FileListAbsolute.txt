@@ -1,0 +1,2 @@
+E:\Git\rg-maxsum\Debug\rg-maxsum.exe
+E:\Git\rg-maxsum\Debug\rg-maxsum.pdb
